@@ -6,6 +6,7 @@ Concrete views do most of the work that we need to do on our own when using APIV
 The view classes can be imported from rest_framework.generics.
 from rest_framework.generics import ListAPIView, CreateAPIView, RetrieveAPIView, UpdateAPIView, DestroyAPIView , ListCreateAPIView, RetrieveUpdateAPIView, RetrieveDestroyAPIView, RetrieveUpdateDestroyAPIView
 
+![image](https://user-images.githubusercontent.com/84769341/206895150-9d0cb774-0f14-4890-adb0-688b374c2acd.png)
 
 <br/>
 
